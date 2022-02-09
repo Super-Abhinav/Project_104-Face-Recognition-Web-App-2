@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(2, 236, 119);
+    color: white;
+    font-family : "Agency FB",fantasy;
+    font-size: 30px;
+}
+
+.heading {
+    width: 80%;
+    font-size: 40px;
+}
+
+.name_of_objects {
+    color: red;
+}
+
+#camera {
+    height: 300px;
+    width: 350px;
+    border: 10px groove orange;
+}
